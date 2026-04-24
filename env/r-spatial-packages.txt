@@ -1,9 +1,0 @@
-Synora
-dplyr
-ggplot2
-ggpubr
-patchwork
-purrr
-reticulate
-tidyr
-tidyverse
