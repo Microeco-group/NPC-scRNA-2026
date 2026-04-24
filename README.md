@@ -62,7 +62,7 @@ This sandbox did not include R, so full end-to-end runtime validation of the R w
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/LML1qa2ws/NPC_scRNAseq.git
+git clone https://github.com/Microeco-group/NPC-scRNA-2026.git
 cd NPC_scRNAseq
 ```
 
